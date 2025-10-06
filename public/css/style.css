@@ -112,11 +112,13 @@ body{
     padding-right: 0;
 }
 
-#map 
-{ 
-    height: 400px;
-    width: 90vh;
+#map {
+  height: 400px;
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 1rem;
 }
+
 
 
 
